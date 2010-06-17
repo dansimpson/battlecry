@@ -30,7 +30,7 @@ require "ruby-growl"
 #   battlecry.shout "We will defeat our enemies!"
 class Battlecry
 
-  VERSION = 0.1
+  VERSION = 0.2
 
   ##
   # Creates a Battlecry, which registers notificaitons with one or

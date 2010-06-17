@@ -1,11 +1,11 @@
 spec = Gem::Specification.new do |s|
 	s.name = 'battlecry'
-	s.version = '0.1'
+	s.version = '0.2'
 	s.date = '2010-06-16'
-	s.summary = 'A simple abstraction for sydicating messages to OSX hosts via Growl'
+	s.summary = 'A simple abstraction for syndicating notifications to OSX hosts via Growl'
 	s.email = 'dan.simpson@gmail.com'
 	s.homepage = 'http://github.com/dansimpson/battlecry'
-	s.description = 'A simple abstraction for sydicating messages to OSX hosts via Growl'
+	s.description = 'A simple abstraction for syndicating notifications to OSX hosts via Growl'
 	s.has_rdoc = true
 	
 	s.authors = ['Dan Simpson']
