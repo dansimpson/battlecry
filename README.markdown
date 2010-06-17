@@ -2,7 +2,6 @@
 
 ##Installation
 
-	gem install ruby-growl
 	gem install battlecry -s http://gemcutter.org
 
 ## Examples
