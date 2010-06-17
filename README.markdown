@@ -22,5 +22,13 @@
 	#see the army size
 	battlecry.num_allies
 
+##Requirements
+
+* Ally machines are running OSX
+* Ally machines have Growl installed
+* Ally machines are listening for incoming notifications (System Preferences)
+* Ally machines allow remote application registration (System Preferences)
+* If you dare, ensure your firewall settings allow incoming connections
+
 ##Dependencies
 - ruby-growl
