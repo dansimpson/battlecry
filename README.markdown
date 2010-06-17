@@ -1,4 +1,4 @@
-#Battlecry - A simple abstraction for sydicating messages to OSX hosts via Growl
+#battlecry - A simple abstraction for sydicating messages to OSX hosts via Growl
 
 ##Installation
 
